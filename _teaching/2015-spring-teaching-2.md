@@ -1,20 +1,36 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Experience at Universities in Jordan and United Kingdom"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Courses"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Applied Science Private University"
 date: 2015-01-01
-location: "City, Country"
+location: "Amman, Jordan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Teaching Experience at Universities in Jordan and United Kingdom 
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+*	Renewable Energy Applications and Sustainability
+*	Engineering Systems (Lighting & Acoustics)
+*	Lighting & Acoustics for Interior Design Students
+*	Artificial Intelligence
+*	Advanced Engineering Mathematics
+*	Green Energy and Smart Buildings
+*	C++ Programming for Engineers
+*	Visual Programming Languages (C# and MATLAB)
+*	Advanced Digital Logic Circuit Design
+*	Electronic Circuits and Electrical Circuits Labs
+*	Computer Architecture
+*	Computer Networks Lab
+*	Advanced Computer Architecture
+*	Engineering Applications Lab – MATLAB for Engineers
+*	Computer Skills – C++
+*	Object Oriented Programing – (JAVA and C++)
+*	Introduction to Networks and Data Communications
+*	Multimedia Systems (including its MATLAB lab)
+*	Acoustics and Lighting - Multimedia Systems
+*	Concepts of Buildings Services
+*	Computer Organization & Architecture
+*	Structured Programming
+*	Special Topics in Information Technology – ECM and CRM
+*	Computer Skills (Windows and Office)
