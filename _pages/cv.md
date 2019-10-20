@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* PhD, Computing (Big Data, Machine Learning and Image Processing), University of Bradford, Bradford, UK, 2009. Thesis Title: “Engineering System design for Automated Space Weather forecast.” Thesis Sub-Title: “Designing automatic software systems for the large-scale analysis of solar data, knowledge extraction and the prediction of solar activities using machine learning techniques.”
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
