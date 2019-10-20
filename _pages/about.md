@@ -12,8 +12,8 @@ I am an academic turned data analyst and machine learning specialist who loves b
 
 Current Positions:
 ======
-Senior KTP Associate, University of Liverpool, UK
-AI & ML Specialist, Simplify Ltd, Leicester, UK
+* Senior KTP Associate, University of Liverpool, UK
+* AI & ML Specialist, Simplify Ltd, Leicester, UK
 
 Web:
 ======
