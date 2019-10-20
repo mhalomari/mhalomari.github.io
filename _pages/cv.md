@@ -22,24 +22,30 @@ Significant Training
 *	Management and Leadership training at Ashorne Hill Management College, Royal Leamington Spa, UK (2 one-week residential modules) covering the following units:
   *	Residential Module One (15-19 July 2018): Working in teams, Project management, Conflict management, Influencing skills, Communication skills, Managing resources, Leadership and management, Motivating others, Health and safety, and Time management.
   * Residential Module Two (7-11 October 2018): The business environment, Business strategy, Marketing, Financial concepts, Capital and budgeting, Analysis of accounts, and Business simulation
+
 *	A four-months Deep Learning Nanodegree Program by Udacity [certified deep learning engineer].
 *	Two online training courses at Udemy:
   *	Natural Language Processing with Python.
   *	Natural Language Processing with Deep Learning in Python
+
 *	A “Science Entrepreneur Experience" training at the University of Liverpool, UK.
 
 
-Work experience
+Industry, Academic and Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+•	(Jun 2018 – Now): Senior KTP Associate, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, University of Liverpool, Liverpool, United Kingdom.
+•	(Jun 2018 – Now): AI & ML Specialist, Simplify Ltd (formerly My Home Move Ltd), Leicester, UK.
+•	(Dec 2017 – Jun 2018): Visiting Research Fellow, School of Electrical Engineering, Electronics and Computer Science, University of Liverpool, Liverpool, United Kingdom.
+•	(Sep 2015 – Sep 2017): Dean, Faculty of Engineering, Applied Science Private University, Amman, Jordan.
+•	(Oct 2014 – Sep 2018): Associate Professor of Electrical & Computer Engineering, Electrical Engineering Department, Applied Science Private University, Amman, Jordan.
+•	(Jun-Aug 2014): Visiting Research Fellow (staff member), School of Engineering and Informatics, University of Bradford, Bradford, United Kingdom.
+•	(Oct 2014 – Aug 2015): [Part-Time] Associate Professor, Architecture Department, University of Petra, Amman, Jordan.
+•	(Oct 2012 – Oct 2014): Assistant Professor of Electrical & Computer Engineering, Electrical and Computer Engineering Department, Applied Science Private University, Amman, Jordan.
+•	(Sep. 2011 – Oct. 2012): Head, Computer Science Department, Applied Science Private University, Amman, Jordan.
+•	(Feb. 2010 – Oct. 2012): Assistant Professor, Computer Science Dept., Applied Science Private University, Amman, Jordan.
+•	(2009): Teaching Assistant, Computer Programming Lab (Java), University of Bradford, UK.
+•	(2005-2006): Teaching Assistant, Electronic Circuits Lab, Jordan University of Science and Technology, Jordan.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
