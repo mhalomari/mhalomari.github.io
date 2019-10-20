@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-03-01-A-hazard-detection
 excerpt: ''
 date: 2019-03-01
-venue: 'SENSORS'
+venue: 'International Journal of Advanced Computer Science and Applications'
 paperurl: 'https://thesai.org/Publications/ViewPaper?Volume=10&Issue=2&Code=IJACSA&SerialNo=1'
 citation: 'O. Younis, W. Al-Nuaimy, MH Alomari, and F. Rowe (2019). “A hazard detection and tracking system for people with peripheral vision loss using smart glasses and augmented reality”, International Journal of Advanced Computer Science and Applications, 10(2), 1-9.'
 ---
