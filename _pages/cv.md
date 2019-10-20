@@ -124,14 +124,19 @@ Technical Skills
 *	Handling several hardware and software projects including a documentation using TeX/LaTeX.
 
   
-Skills
+Scholarships, Honors and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*	The Award of “Best Researcher at the University Level for Scientific Faculties 2013/2014”, Applied Science Private University, Amman, Jordan, April, 2014.
+*	Full PhD Scholarship, Applied Science Private University, Amman, Jordan, 2006-2009.
+*	University of Bradford (UK): an award of £500 to attend the CISM summer school, Boston MA, USA, 2009.
+*	Included in Marquis Who's Who in the World 2015, 32nd Edition, Marquis Who's Who, USA.
+*	Included in Marquis Who's Who in the World 2014, 31st Edition, Marquis Who's Who, USA.
+*	Included in Marquis Who's Who in Science and Engineering 2011, 11th Edition, Marquis Who's Who, USA.
+
+Research Interests
+======
+Applications of machine learning algorithms, deep learning, NLP, AI, smart and green buildings, solar PV applications, space weather and solar energy, computer vision, brain-computer interface, and digital image processing.
+
 
 Publications
 ======
