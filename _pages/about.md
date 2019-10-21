@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Who?"
+title: "Who is Mohammad?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

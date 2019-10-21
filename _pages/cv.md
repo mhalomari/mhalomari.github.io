@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **PhD**, Computing (Big Data, Machine Learning and Image Processing), **University of Bradford**, Bradford, UK, 2009. Thesis Title: **“Engineering System design for Automated Space Weather forecast.”** Thesis Sub-Title: “Designing automatic software systems for the large-scale analysis of solar data, knowledge extraction and the prediction of solar activities using machine learning techniques.”
+* **PhD**, Machine Learning (Big Data, Space Weather and Image Processing), **University of Bradford**, Bradford, UK, 2009. Thesis Title: **“Engineering System design for Automated Space Weather forecast.”** Thesis Sub-Title: “Designing automatic software systems for the large-scale analysis of solar data, knowledge extraction and the prediction of solar activities using machine learning techniques.”
 * **MS**, Electrical Engineering (Communications and Electronics), **Jordan University of Science and Technology (JUST)**, Jordan, 2006. Thesis Title: **“Digital Down Converter Using Non-Sinusoidal Local Oscillator.”**
 * **BS**, Electrical Engineering (Communications and Electronics), **Jordan University of Science and Technology (JUST)**, Jordan, 2005.
 * **High School**: Irbid, Jordan, July 2000, the high school academic final national examination (Tawjihi) with the grade of 91.4%.
