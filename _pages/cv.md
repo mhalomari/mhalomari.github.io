@@ -158,4 +158,12 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* **Project Manager:**	(Jun 2018 – Jun 2021) A Knowledge Transfer Partnership (KTP) project: "The MyHomeMove Project" (KTP010950). Amount awarded: 350,674 GBP. The project is funded by Innovate UK and MyHomeMove Ltd.
+
+* **Dean of Engineering:** (Sep 2015 – Sep 2017) Faculty of Engineering, Applied Science Private University, Amman, Jordan.
+
+* **Head of Department:**	(Sep. 2011 – Oct. 2012) Computer Science Department, Applied Science Private University, Amman, Jordan.
+
+* **Director of the Renewable Energy Center:**	(Sep 2015 – Now) Applied Science Private University, Amman, Jordan. Managed the center employees to execute maintenance works for the installed solar PV systems (Fixed Poly-crystalline, Mono-crystalline, and Thin film panels and CPV and Polycrystalline Trackers) and the weather station and to carry out the required arrangements and support for research projects in the field of renewable energy and sustainability. [http://energy.asu.edu.jo/index.php/projects]
+
+* **Director of the Engineering Workshops:**	(Sep 2015 – Sep 2017) Applied Science Private University, Amman, Jordan. Managed workshop employees to execute repair works and production projects. The duty included intensive management for the time, cost and quality objectives of work activities within the university.
