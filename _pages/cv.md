@@ -62,13 +62,13 @@ International Research Activities
 *	(Apr. 2013): Attended the Second NWRA Flare-Forecasting Comparison Workshop: Preliminary Results (Funded by NASA, USA), Apr. 2013, Boulder, CO, USA.
 *	(Feb. 2013): Honorary Visiting Research Assistant, Space Weather Research, Centre for Visual Computing (CVC), University of Bradford, Bradford, United Kingdom. 
 *	(Sep. 2009 - Now): Team Associate, Space Weather Research, Centre for Visual Computing (CVC), University of Bradford, Bradford, United Kingdom.
-http://spaceweather.inf.brad.ac.uk
+[More info...](http://spaceweather.inf.brad.ac.uk)
 *	(Sep. 2011): Honorary Visiting Research Assistant, University of Bradford, Bradford, United Kingdom.
 *	(Jul-Aug 2009): Short course at the CISM summer school in Space Weather by the Center for Integrated Space Weather Modeling, Boston MA, USA.
 
 Work Experience and Activities
 ======
-*	(Sep 2015 – Now): Director, Renewable Energy Center, Applied Science Private University, Amman, Jordan. Managed the center employees to execute maintenance works for the installed solar PV systems (Fixed Poly-crystalline, Mono-crystalline, and Thin film panels and CPV and Polycrystalline Trackers) and the weather station and to carry out the required arrangements and support for research projects in the field of renewable energy and sustainability. [http://energy.asu.edu.jo/index.php/projects]
+*	(Sep 2015 – Sep 2017): Director, Renewable Energy Center, Applied Science Private University, Amman, Jordan. Managed the center employees to execute maintenance works for the installed solar PV systems (Fixed Poly-crystalline, Mono-crystalline, and Thin film panels and CPV and Polycrystalline Trackers) and the weather station and to carry out the required arrangements and support for research projects in the field of renewable energy and sustainability. [More info...](http://energy.asu.edu.jo/index.php/projects)
 *	(Sep 2015 – Sep 2017): Director, Engineering Workshops, Applied Science Private University, Amman, Jordan. Managed workshop employees to execute repair works and production projects. The duty included intensive management for the time, cost and quality objectives of work activities within the university.
 *	Member of the Accreditation Committees, Accreditation and Quality Assurance Commission for Higher Education Institutions, Amman, Jordan, 2017.
 *	(Sep 2014 – Sep 2015): Member of the Faculty Council, Representative for the Electrical & Computer Engineering department, Faculty of Engineering, Applied Science Private University, Amman, Jordan.
