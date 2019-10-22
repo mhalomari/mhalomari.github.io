@@ -22,8 +22,8 @@ Web:
 * [Bradford](http://spaceweather.inf.brad.ac.uk)
 
 | Desc. | Link |
-|:-------:|:-------:|
-| Linkedin Profile   | https://www.linkedin.com/in/mhalomari/   |
-| My Uni of Liverpool page   | https://www.liverpool.ac.uk/computer-science/staff/mohammad-alomari/   |
-| My research group at the Uni of Bradford | http://spaceweather.inf.brad.ac.uk|
+|:-------|:-------|
+| My Linkedin Profile   | [https://www.linkedin.com/in/mhalomari/](https://www.linkedin.com/in/mhalomari/)   |
+| My University of Liverpool page   | [https://www.liverpool.ac.uk/computer-science/staff/mohammad-alomari/](https://www.liverpool.ac.uk/computer-science/staff/mohammad-alomari/)   |
+| My research group at the University of Bradford | [http://spaceweather.inf.brad.ac.uk](http://spaceweather.inf.brad.ac.uk) |
 |===================|
