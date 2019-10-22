@@ -17,9 +17,6 @@ Current Positions:
 
 Web:
 ======
-* [Linkedin](https://www.linkedin.com/in/mhalomari/)
-* [Liverpool](https://www.liverpool.ac.uk/computer-science/staff/mohammad-alomari/)
-* [Bradford](http://spaceweather.inf.brad.ac.uk)
 
 | Desc. | Link |
 |:-------|:-------|
