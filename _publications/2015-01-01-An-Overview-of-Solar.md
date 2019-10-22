@@ -3,7 +3,7 @@ title: "An Overview of Solar Cooling Technologies Markets Development and its Ma
 collection: publications
 permalink: /publication/2015-01-01-An-Overview-of-Solar
 excerpt: ''
-date: 2018-06-01
+date: 2015-01-01
 venue: 'Energy Procedia'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1876610214032597'
 citation: 'Baniyounes AM, Ghadi YY, Rasul MG, Alomari MH, and Manasreh A (2015). “An Overview of Solar Cooling Technologies Markets Development and its Managerial Aspects”, Energy Procedia, 61, 1869-1864.'
