@@ -8,7 +8,6 @@ tags:
   - UK
   - شراء
   - سيارة
-icon: fa-car
 ---
 
 Based on my personal experince, I would recommend buying a car from:
@@ -16,7 +15,7 @@ Based on my personal experince, I would recommend buying a car from:
 # RAC Approved Dealers:
 <https://www.rac.co.uk/route-planner/maps/approveddealerwidget/>
 
-<img src="{{ site.img_path }}/uk/rac.jpg" width="50%">
+<img src="images/uk/rac.jpg" width="50%">
 
 Every car purchased from RAC Approved Dealers comes with the following:
 
@@ -30,7 +29,7 @@ Every car purchased from RAC Approved Dealers comes with the following:
 # AA Approved Dealers: 
 <https://www.theaa.com/used-cars/displaycars?approved_dealer=1>
 
-<img src="{{ site.img_path }}/uk/aa.jpg" width="50%">
+<img src="images/uk/aa.jpg" width="50%">
 
 With AA, What are the promises? The dealer will......
 
@@ -49,6 +48,6 @@ With AA, What are the promises? The dealer will......
 # Arnold Clark:
 <https://www.arnoldclark.com/>
 
-<img src="{{ site.img_path }}/uk/ac.jpg" width="50%">
+<img src="images/uk/ac.jpg" width="50%">
 
 The best thing here, is that you can part-exchange your old car.
