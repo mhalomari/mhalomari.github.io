@@ -84,10 +84,10 @@ author:
   avatar           : "Alomari.jpg"
   bio              : ""
   location         : "Liverpool, UK"
-  employer         :
+  employer         : "University of Liverpool"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alomari+MH"
   googlescholar    : "https://scholar.google.co.uk/citations?user=GRh9vVoAAAAJ&hl=en"
-  email            :
+  email            : "alomari@liverpool.ac.uk"
   researchgate     :  "https://www.researchgate.net/profile/Mohammad_Alomari2"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mhalomari/"
   orcid            : "https://orcid.org/0000-0002-7874-7679"
   pinterest        :
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57208015278"
