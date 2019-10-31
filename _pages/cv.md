@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* **PhD**, Machine Learning (Big Data, Space Weather and Image Processing), **University of Bradford**, Bradford, UK, 2009. Thesis Title: **“Engineering System design for Automated Space Weather forecast.”** Thesis Sub-Title: “Designing automatic software systems for the large-scale analysis of solar data, knowledge extraction and the prediction of solar activities using machine learning techniques.”
-* **MS**, Electrical Engineering (Communications and Electronics), **Jordan University of Science and Technology (JUST)**, Jordan, 2006. Thesis Title: **“Digital Down Converter Using Non-Sinusoidal Local Oscillator.”**
-* **BS**, Electrical Engineering (Communications and Electronics), **Jordan University of Science and Technology (JUST)**, Jordan, 2005.
-* **High School**: Irbid, Jordan, July 2000, the high school academic final national examination (Tawjihi) with the grade of 91.4%.
+* **PhD**, <a href="https://www.bradford.ac.uk/external/"><img src="/images/logo/brad.jpg" width="40%" align="right"></a> Machine Learning (Big Data, Space Weather and Image Processing), **[University of Bradford](https://www.bradford.ac.uk/external/)**, Bradford, UK, 2009. Thesis Title: **“Engineering System design for Automated Space Weather forecast.”** Thesis Sub-Title: “Designing automatic software systems for the large-scale analysis of solar data, knowledge extraction and the prediction of solar activities using machine learning techniques.”
+<br>
+* **MS**, <a href="http://www.just.edu.jo/Pages/Default.aspx"><img src="/images/logo/just2.png" width="50%" align="right"></a> Electrical Engineering (Communications and Electronics), **[Jordan University of Science and Technology (JUST)](http://www.just.edu.jo/Pages/Default.aspx)**, Jordan, 2006. Thesis Title: **“Digital Down Converter Using Non-Sinusoidal Local Oscillator.”**
+* **BS**, Electrical Engineering (Communications and Electronics), **[Jordan University of Science and Technology (JUST)](http://www.just.edu.jo/Pages/Default.aspx)**, Jordan, 2005.
+<br>
+* **High School**: [AlManara Secondary School for Boys](https://goo.gl/maps/RFZsrkHDpuHCBYWWA), Irbid, Jordan, July 2000, the high school academic final national examination (Tawjihi) with the grade of 91.4%.
 
 
 Significant Training
