@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **PhD**, <a href="https://www.bradford.ac.uk/external/"><img src="/images/logo/brad.jpg" width="40%" align="right"></a> Machine Learning (Big Data, Space Weather and Image Processing), **[University of Bradford](https://www.bradford.ac.uk/external/)**, Bradford, UK, 2009. Thesis Title: **“Engineering System design for Automated Space Weather forecast.”** Thesis Sub-Title: “Designing automatic software systems for the large-scale analysis of solar data, knowledge extraction and the prediction of solar activities using machine learning techniques.”
+* **PhD**, <a href="https://www.bradford.ac.uk/external/"><img src="/images/logo/brad.png" width="40%" align="right"></a> Machine Learning (Big Data, Space Weather and Image Processing), **[University of Bradford](https://www.bradford.ac.uk/external/)**, Bradford, UK, 2009. Thesis Title: **“Engineering System design for Automated Space Weather forecast.”** Thesis Sub-Title: “Designing automatic software systems for the large-scale analysis of solar data, knowledge extraction and the prediction of solar activities using machine learning techniques.”
 <br>
 * **MS**, <a href="http://www.just.edu.jo/Pages/Default.aspx"><img src="/images/logo/just2.png" width="50%" align="right"></a> Electrical Engineering (Communications and Electronics), **[Jordan University of Science and Technology (JUST)](http://www.just.edu.jo/Pages/Default.aspx)**, Jordan, 2006. Thesis Title: **“Digital Down Converter Using Non-Sinusoidal Local Oscillator.”**
 * **BS**, Electrical Engineering (Communications and Electronics), **[Jordan University of Science and Technology (JUST)](http://www.just.edu.jo/Pages/Default.aspx)**, Jordan, 2005.
@@ -35,10 +35,10 @@ Significant Training
 
 Industry, Academic and Research Experience
 ======
-*	(Jun 2018 – Now): Senior KTP Associate, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, University of Liverpool, Liverpool, United Kingdom.
+*	(Jun 2018 – Now): <a href="https://www.liverpool.ac.uk/"><img src="/images/logo/liv.png" width="40%" align="right"></a> Senior KTP Associate, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, University of Liverpool, Liverpool, United Kingdom.
 *	(Jun 2018 – Now): AI & ML Specialist, Simplify Ltd (formerly My Home Move Ltd), Leicester, UK.
 *	(Dec 2017 – Jun 2018): Visiting Research Fellow, School of Electrical Engineering, Electronics and Computer Science, University of Liverpool, Liverpool, United Kingdom.
-*	(Sep 2015 – Sep 2017): <a href="https://www.bradford.ac.uk/external/"><img src="/images/logo/ASU.jpg" width="18%" align="right"></a> Dean, Faculty of Engineering, Applied Science Private University, Amman, Jordan.
+*	(Sep 2015 – Sep 2017): <a href="https://www.asu.edu.jo/en/Pages/default.aspx"><img src="/images/logo/ASU.jpg" width="18%" align="right"></a> Dean, Faculty of Engineering, Applied Science Private University, Amman, Jordan.
 *	(Oct 2014 – Sep 2018): Associate Professor of Electrical & Computer Engineering, Electrical Engineering Department, Applied Science Private University, Amman, Jordan.
 *	(Jun-Aug 2014): Visiting Research Fellow (staff member), School of Engineering and Informatics, University of Bradford, Bradford, United Kingdom.
 *	(Oct 2014 – Aug 2015): [Part-Time] Associate Professor, Architecture Department, University of Petra, Amman, Jordan.
