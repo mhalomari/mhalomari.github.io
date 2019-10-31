@@ -38,7 +38,7 @@ Industry, Academic and Research Experience
 *	(Jun 2018 – Now): Senior KTP Associate, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, University of Liverpool, Liverpool, United Kingdom.
 *	(Jun 2018 – Now): AI & ML Specialist, Simplify Ltd (formerly My Home Move Ltd), Leicester, UK.
 *	(Dec 2017 – Jun 2018): Visiting Research Fellow, School of Electrical Engineering, Electronics and Computer Science, University of Liverpool, Liverpool, United Kingdom.
-*	(Sep 2015 – Sep 2017): Dean, Faculty of Engineering, Applied Science Private University, Amman, Jordan.
+*	(Sep 2015 – Sep 2017): <a href="https://www.bradford.ac.uk/external/"><img src="/images/logo/ASU.jpg" width="18%" align="right"></a> Dean, Faculty of Engineering, Applied Science Private University, Amman, Jordan.
 *	(Oct 2014 – Sep 2018): Associate Professor of Electrical & Computer Engineering, Electrical Engineering Department, Applied Science Private University, Amman, Jordan.
 *	(Jun-Aug 2014): Visiting Research Fellow (staff member), School of Engineering and Informatics, University of Bradford, Bradford, United Kingdom.
 *	(Oct 2014 – Aug 2015): [Part-Time] Associate Professor, Architecture Department, University of Petra, Amman, Jordan.
