@@ -35,14 +35,14 @@ Significant Training
 
 Industry, Academic and Research Experience
 ======
-*	(Jun 2018 – Now): <a href="https://www.liverpool.ac.uk/"><img src="/images/logo/liv.png" width="40%" align="right"></a> Senior KTP Associate, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, University of Liverpool, Liverpool, United Kingdom.
-*	(Jun 2018 – Now): AI & ML Specialist, Simplify Ltd (formerly My Home Move Ltd), Leicester, UK.
+*	(Jun 2018 – Now): <a href="https://www.liverpool.ac.uk/"><img src="/images/logo/liv.png" width="40%" align="right"></a> Senior KTP Associate, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, [University of Liverpool](https://www.liverpool.ac.uk/), Liverpool, United Kingdom.
+*	(Jun 2018 – Now): <a href="https://www.myhomemove.com/"><img src="/images/logo/mhm.png" width="30%" align="right"></a> AI & ML Specialist, [My Home Move Ltd](https://www.myhomemove.com/) (Now [Simplify Ltd](https://www.simplify.co.uk/)), Leicester, UK.
 *	(Dec 2017 – Jun 2018): Visiting Research Fellow, School of Electrical Engineering, Electronics and Computer Science, University of Liverpool, Liverpool, United Kingdom.
-*	(Sep 2015 – Sep 2017): <a href="https://www.asu.edu.jo/en/Pages/default.aspx"><img src="/images/logo/ASU.jpg" width="18%" align="right"></a> Dean, Faculty of Engineering, Applied Science Private University, Amman, Jordan.
-*	(Oct 2014 – Sep 2018): Associate Professor of Electrical & Computer Engineering, Electrical Engineering Department, Applied Science Private University, Amman, Jordan.
-*	(Jun-Aug 2014): Visiting Research Fellow (staff member), School of Engineering and Informatics, University of Bradford, Bradford, United Kingdom.
-*	(Oct 2014 – Aug 2015): [Part-Time] Associate Professor, Architecture Department, University of Petra, Amman, Jordan.
-*	(Oct 2012 – Oct 2014): Assistant Professor of Electrical & Computer Engineering, Electrical and Computer Engineering Department, Applied Science Private University, Amman, Jordan.
+*	(Sep 2015 – Sep 2017): <a href="https://www.asu.edu.jo/en/Pages/default.aspx"><img src="/images/logo/ASU.jpg" width="17%" align="right"></a> Dean, Faculty of Engineering, [Applied Science Private University](https://www.asu.edu.jo/en/Pages/default.aspx), Amman, Jordan.
+*	(Oct 2014 – Sep 2018): Associate Professor of Electrical & Computer Engineering, Electrical Engineering Department, [Applied Science Private University](https://www.asu.edu.jo/en/Pages/default.aspx), Amman, Jordan.
+*	(Jun-Aug 2014): <a href="https://www.bradford.ac.uk/external/"><img src="/images/logo/brad.jpg" width="20%" align="right"></a>Visiting Research Fellow, School of Engineering and Informatics, [University of Bradford](https://www.bradford.ac.uk/external/), Bradford, United Kingdom.
+*	(Oct 2014 – Aug 2015): <a href="https://www.uop.edu.jo/En/Pages/default.aspx"><img src="/images/logo/petra.png" width="20%" align="right"></a>[Part-Time] Associate Professor, Architecture Department, [University of Petra](https://www.uop.edu.jo/En/Pages/default.aspx), Amman, Jordan.
+*	(Oct 2012 – Oct 2014): <a href="https://www.asu.edu.jo/en/Pages/default.aspx"><img src="/images/logo/ASU.jpg" width="25%" align="right"></a>Assistant Professor of Electrical & Computer Engineering, Electrical and Computer Engineering Department, Applied Science Private University, Amman, Jordan.
 *	(Sep. 2011 – Oct. 2012): Head, Computer Science Department, Applied Science Private University, Amman, Jordan.
 *	(Feb. 2010 – Oct. 2012): Assistant Professor, Computer Science Dept., Applied Science Private University, Amman, Jordan.
 *	(2009): Teaching Assistant, Computer Programming Lab (Java), University of Bradford, UK.
