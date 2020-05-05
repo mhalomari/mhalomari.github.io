@@ -5,7 +5,7 @@ permalink: /posts/2019/10/blog-post-2/
 tags:
   - car
   - buy
-  - UK
+  - Life in the UK
   - شراء
   - سيارة
 ---
