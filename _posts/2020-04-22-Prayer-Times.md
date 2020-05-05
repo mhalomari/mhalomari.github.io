@@ -4,7 +4,6 @@ date: 2020-04-22
 permalink: /posts/2020/04/blog-post-1/
 tags:
   - Space
-  - Arabic
 ---
 <div dir="rtl">
 السلام عليكم احبتي
