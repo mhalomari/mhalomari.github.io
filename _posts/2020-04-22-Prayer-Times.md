@@ -7,57 +7,60 @@ tags:
   - Life in the UK
   - بالعربي
 ---
-<span dir="rtl" style="font-family:Tahoma; font-size:2em;">
+<div dir="rtl"><span style="font-family:Tahoma;">
 السلام عليكم احبتي
+
+
 قمت ببحث مفصل بخصوص أوقات الصلاة واحببت مشاركتكم ما وصلت له
 
 
 أولا سأبدا بمفهوم فلكي مختصره انه بمقارنة غياب الشمس بشروقها نجد ان غروبها (وقت المغرب) يكافئ شروقها (وقت الشروق) وغياب الشفق الأحمر (وقت العشاء) يكافئ ظهور بياض الفجر (وقت الفجر)... بشكل عام فلكيا الوقت من الفجر للشروق يساوي الوقت من المغرب للعشاء... للتفصيل ارجو قراءة المقال التالي:
 
-</span>
+</span></div>
 
 <https://tinyurl.com/yc9698f2>
 
 <img src='/images/Aljazeera.png'>
 
 
-<span dir="rtl" style="font-family:Tahoma; font-size:2em;">
+<div dir="rtl"><span style="font-family:Tahoma;">
 يتم احتساب وقت الفجر من خلال زاوية ارتفاع الشمس تحت الأفق... يعني لو مددنا خط مستقيم باتجاه الأفق الشرقي تكون الشمس تحت هذا الخط بزاوية معينة وقت الفجر... ولو مددنا خط مستقيم باتجاه الأفق الغربي تكون الشمس تحت هذا الخط بزاوية معينة وقت العشاء... اختلاف العلماء في هذا المجال انه لا يمكن تثبيت هذه الزوايا... فمثلا معظم الدول حول خط الاستواء (مثلا جنوب ٤٥ الى شمال ٤٨) تكون زوايا الفجر والعشاء هي ١٨ درجة... لكن لا يمكننا تعميم هذه الزوايا على جميع انحاء العالم لهذا ظهرت طرق حساب مختلفة والتي تجدونها في اعدادات برامج الاذان... بعض الدول مثل فرنسا تم اعتماد ١٢ درجه للفجر والعشاء ومنطقة أمريكا الشمالية ١٥ وهناك العديد من الطرق لا تساوي الفجر بالعشاء مثل ام القرى ورابطة العالم الإسلامي... هذا مثال بسيط لهذه الطرق:
 
-</span>
+</span></div>
 
 
 [https://www.prayer-now.com/calculations](https://www.prayer-now.com/calculations)
 
 
-<span dir="rtl" style="font-family:Tahoma; font-size:2em;">
+<div dir="rtl"><span style="font-family:Tahoma;">
 الان نحن بحاجه لحل علمي ولا اعتقد ان الجميع سيتفق على حل واحد ويبقى هناك مجال للاجتهاد في الموضوع... الحل البسيط هي حسابات المعادلات الفلكية والتي لم تكن متوفرة قديما... مثلا يمكنكم الدخول للموقع التالي:
-</span>
+</span></div>
 
 
 [https://www.moonsighting.com/pray.php](https://www.moonsighting.com/pray.php)
 
 
-<span dir="rtl" style="font-family:Tahoma; font-size:2em;">
+<div dir="rtl"><span style="font-family:Tahoma;">
 قمت بنقل مؤشر العنوان لعنواني في ليفربول كما يظهر في الصور التالية وظهرت أوقات الصلاة بطريقة الحساب العلمية المناسبة لعنواني 
-</span>
+</span></div>
+
 
 <img src='/images/moonsighting.png'>
 
 
 <img src='/images/moonsighting2.png'>
 
-<span dir="rtl" style="font-family:Tahoma; font-size:2em;">
+<div dir="rtl"><span style="font-family:Tahoma;">
 وتم شرح الطريقة بالتفصيل هنا:
-</span>
+</span></div>
 
 
 [https://www.moonsighting.com/how-we.html](https://www.moonsighting.com/how-we.html)
 
 
-<span dir="rtl" style="font-family:Tahoma; font-size:2em;">
+<div dir="rtl"><span style="font-family:Tahoma;">
 الطريقة الثانية ان تدخل على الموقع التالي
-</span>
+</span></div>
 
 
 [https://www.suncalc.org/#/53.4055,-2.9498,18/2020.04.24/04:23/1/3](https://www.suncalc.org/#/53.4055,-2.9498,18/2020.04.24/04:23/1/3)
@@ -66,10 +69,10 @@ tags:
 <img src='/images/suncalc.png'>
 
 
-<span dir="rtl" style="font-family:Tahoma; font-size:2em;">
+<div dir="rtl"><span style="font-family:Tahoma;">
 كما في الصورة الأخيرة، أدخلت البوست كود لعنواني في ليفربول... قمت بتحريك المؤشر (دائرة اعلى الصفحه)  لتحريك الشمس لما قبل الشروق... مثلا عند الوصول لزاوية ١٢ درجة Altitude عندها يظهر الوقت لتحقيق هذه الزاوية وهو 4:23 وهو وقت الفجر اذا تم اعتماد زاوية الشمس ١٢... يمكن تغيير الزاوية مرة اخره لتصبح ١٥ او ١٨ وهكذا...
 
 صياما مقبولا لكم ولأحبابكم... اعاننا الله واياكم على الصيام والقيام.
-</span>
+</span></div>
 
 
