@@ -11,6 +11,8 @@ redirect_from:
 
 Education
 ======
+* **Executive Course**, <a href="https://www.imperial.ac.uk/business-school/"><img src="/images/logo/Imperial.png" width="40%" align="right"></a> Digital Transformation Strategy, **[Imperial College Business School](https://www.imperial.ac.uk/business-school/)**, the executive education programme at the Imperial College Business School, Imperial College London, UK, 2021.”
+<br>
 * **PhD**, <a href="https://www.bradford.ac.uk/external/"><img src="/images/logo/brad.png" width="40%" align="right"></a> Machine Learning (Big Data, Space Weather and Image Processing), **[University of Bradford](https://www.bradford.ac.uk/external/)**, Bradford, UK, 2009. Thesis Title: **“Engineering System design for Automated Space Weather forecast.”** Thesis Sub-Title: “Designing automatic software systems for the large-scale analysis of solar data, knowledge extraction and the prediction of solar activities using machine learning techniques.”
 <br>
 * **MS**, <a href="http://www.just.edu.jo/Pages/Default.aspx"><img src="/images/logo/just2.png" width="50%" align="right"></a> Electrical Engineering (Communications and Electronics), **[Jordan University of Science and Technology (JUST)](http://www.just.edu.jo/Pages/Default.aspx)**, Jordan, 2006. Thesis Title: **“Digital Down Converter Using Non-Sinusoidal Local Oscillator.”**
