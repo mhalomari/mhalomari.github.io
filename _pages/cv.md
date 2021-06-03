@@ -37,9 +37,10 @@ Significant Training
 
 Industry, Academic and Research Experience
 ======
-*	(Jun 2018 – Now): <a href="https://www.liverpool.ac.uk/"><img src="/images/logo/liv.png" width="40%" align="right"></a> Senior KTP Associate, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, [University of Liverpool](https://www.liverpool.ac.uk/), Liverpool, United Kingdom.
-*	(Jun 2018 – Now): <a href="https://www.myhomemove.com/"><img src="/images/logo/mhm.png" width="30%" align="right"></a> AI & ML Specialist, [My Home Move Ltd](https://www.myhomemove.com/) (Now [Simplify Ltd](https://www.simplify.co.uk/)), Leicester, UK.
-*	(Dec 2017 – Jun 2018): Visiting Research Fellow, School of Electrical Engineering, Electronics and Computer Science, University of Liverpool, Liverpool, United Kingdom.
+*	(Jun 2021 – Now): <a href="https://www.simplify.co.uk/"><img src="/images/logo/simplify.png" width="30%" align="right"></a> Senior Artificial Intelligence Consultant, [Simplify Ltd](https://www.simplify.co.uk), Leicester, United Kingdom.<br><br>
+*	(Jun 2018 – Now): <a href="https://www.liverpool.ac.uk/"><img src="/images/logo/liv.png" width="30%" align="left"></a> Senior KTP Associate, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, [University of Liverpool](https://www.liverpool.ac.uk/), Liverpool, United Kingdom.<br><br>
+*	(Jun 2018 – Jun 2021): <a href="https://www.myhomemove.com/"><img src="/images/logo/mhm.png" width="20%" align="right"></a> AI & ML Specialist, [My Home Move Ltd](https://www.myhomemove.com/) (Now [Simplify Ltd](https://www.simplify.co.uk/)), Leicester, UK.<br><br>
+*	(Dec 2017 – Jun 2018): Visiting Research Fellow, School of Electrical Engineering, Electronics and Computer Science, University of Liverpool, Liverpool, United Kingdom.<br><br>
 *	(Sep 2015 – Sep 2017): <a href="https://www.asu.edu.jo/en/Pages/default.aspx"><img src="/images/logo/ASU.jpg" width="15%" align="right"></a> Dean, Faculty of Engineering, [Applied Science Private University](https://www.asu.edu.jo/en/Pages/default.aspx), Amman, Jordan.
 *	(Oct 2014 – Sep 2018): Associate Professor of Electrical & Computer Engineering, Electrical Engineering Department, [Applied Science Private University](https://www.asu.edu.jo/en/Pages/default.aspx), Amman, Jordan.
 *	(Jun-Aug 2014): <a href="https://www.bradford.ac.uk/external/"><img src="/images/logo/brad.jpg" width="20%" align="right"></a>Visiting Research Fellow, School of Engineering and Informatics, [University of Bradford](https://www.bradford.ac.uk/external/), Bradford, United Kingdom.
