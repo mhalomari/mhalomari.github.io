@@ -81,9 +81,10 @@ tags:
 
 أنصحكم باستخدام تطبيق Sky Prayers الذي برمجة أحد الاخوة السعوديين (أحمد منصور بوخمسين) بناء على دراسات مستفيضه في الموضوع وقياس زوايا الافق شخصيا في مدن مختلفه حول المملكة المتحدة.
 التطبيق متوفر لهواتق ايفون وأندرويد:
+</span></div>
 
 [https://play.google.com/store/apps/details?id=com.techiapps.skyprayers&hl=en&gl=US](https://play.google.com/store/apps/details?id=com.techiapps.skyprayers&hl=en&gl=US)
 
 [https://apps.apple.com/gb/app/sky-prayers/id439409680?platform=iphone](https://apps.apple.com/gb/app/sky-prayers/id439409680?platform=iphone)
 
-</span></div>
+
