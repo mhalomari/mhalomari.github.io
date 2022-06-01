@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an academic turned data analyst and machine learning specialist who loves building real-world AI and automation systems. My multidisciplinary ML research experience range from processing space weather data and solar images, EEG signals, to solar PV and weather data. Right now, I'm working on an AI project to process legal documents and conveyancing cases. Main skills: Python, ML & DL, NLP, MATLAB, leadership & management.
+Mohammad is an academic turned machine learning and AI consultant who loves building real-world AI and automation products. He is currently working as a Senior AI Consultant and Strategist for the UK leading conveyancing giant Simplify Ltd and as a research fellow at the University of Liverpool. Mohammad's multidisciplinary and applied ML research experience range from processing space weather data and solar images, to EEG signals, solar PV and weather data, and legal documents for conveyancing cases. Mohammad's current role has allowed him to work with amazing people from the Legal, Service Delivery, BI, MI, Marketing, SLT, and Document Logistics teams. As an AI Consultant, his role is to understand different processes and how they create value, then scope and qualify true opportunities for AI across the value chain. Helping scoping out compelling solutions that connect with a customer’s systems, processes and people.
 
 Current Positions:
 ======
-* Senior KTP Associate, University of Liverpool, UK
-* AI & ML Specialist, Simplify Ltd, Leicester, UK
+* Senior Research Fellow, University of Liverpool, UK
+* Senior AI Consultant, Simplify Ltd, Leicester, UK
 
 Web:
 ======
