@@ -23,6 +23,10 @@ Education
 
 Significant Training
 ======
+*	Lean Six Sigma Green Belt, Certification Pending, Mar 2022, Lean Competency System - Cardiff University, UK.
+
+*	Lean Six Sigma Yellow Belt, Certified LCS:1a, Dec 2021, Lean Competency System - Cardiff University, UK.
+
 *	Management and Leadership training at Ashorne Hill Management College, Royal Leamington Spa, UK (2 one-week residential modules) covering the following units:
     *	Residential Module One (15-19 July 2018): Working in teams, Project management, Conflict management, Influencing skills, Communication skills, Managing resources, Leadership and management, Motivating others, Health and safety, and Time management.
     * Residential Module Two (7-11 October 2018): The business environment, Business strategy, Marketing, Financial concepts, Capital and budgeting, Analysis of accounts, and Business simulation
@@ -38,7 +42,8 @@ Significant Training
 Industry, Academic and Research Experience
 ======
 *	(Jun 2021 – Now): <a href="https://www.simplify.co.uk/"><img src="/images/logo/simplify.png" width="30%" align="right"></a> Senior Artificial Intelligence Consultant, [Simplify Ltd](https://www.simplify.co.uk), Leicester, United Kingdom.<br><br>
-*	(Jun 2018 – Now): <a href="https://www.liverpool.ac.uk/"><img src="/images/logo/liv.png" width="30%" align="left"></a> Senior KTP Associate, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, [University of Liverpool](https://www.liverpool.ac.uk/), Liverpool, United Kingdom.<br><br>
+*	(Jun 2021 – Now): <a href="https://www.liverpool.ac.uk/"><img src="/images/logo/liv.png" width="30%" align="left"></a> Senior Research Fellow, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, [University of Liverpool](https://www.liverpool.ac.uk/), Liverpool, United Kingdom.<br><br>
+*	(Jun 2018 – Jun 2021): Senior KTP Associate, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, [University of Liverpool](https://www.liverpool.ac.uk/), Liverpool, United Kingdom.<br><br>
 *	(Jun 2018 – Jun 2021): <a href="https://www.myhomemove.com/"><img src="/images/logo/mhm.png" width="20%" align="right"></a> AI & ML Specialist, [My Home Move Ltd](https://www.myhomemove.com/) (Now [Simplify Ltd](https://www.simplify.co.uk/)), Leicester, UK.<br><br>
 *	(Dec 2017 – Jun 2018): Visiting Research Fellow, School of Electrical Engineering, Electronics and Computer Science, University of Liverpool, Liverpool, United Kingdom.<br><br>
 *	(Sep 2015 – Sep 2017): <a href="https://www.asu.edu.jo/en/Pages/default.aspx"><img src="/images/logo/ASU.jpg" width="15%" align="right"></a> Dean, Faculty of Engineering, [Applied Science Private University](https://www.asu.edu.jo/en/Pages/default.aspx), Amman, Jordan.
