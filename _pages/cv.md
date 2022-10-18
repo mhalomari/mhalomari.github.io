@@ -72,7 +72,7 @@ International Research Activities
 *	(Apr. 2013): Attended the Second NWRA Flare-Forecasting Comparison Workshop: Preliminary Results (Funded by NASA, USA), Apr. 2013, Boulder, CO, USA.
 *	(Feb. 2013): Honorary Visiting Research Assistant, Space Weather Research, Centre for Visual Computing (CVC), University of Bradford, Bradford, United Kingdom. 
 *	(Sep. 2009 - Now): Team Associate, Space Weather Research, Centre for Visual Computing (CVC), University of Bradford, Bradford, United Kingdom.
-[More info...](http://spaceweather.inf.brad.ac.uk)
+[More info...](https://spaceweather.bradford.ac.uk/)
 *	(Sep. 2011): Honorary Visiting Research Assistant, University of Bradford, Bradford, United Kingdom.
 *	(Jul-Aug 2009): Short course at the CISM summer school in Space Weather by the Center for Integrated Space Weather Modeling, Boston MA, USA.
 
