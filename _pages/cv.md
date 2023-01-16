@@ -23,15 +23,15 @@ Education
 
 Significant Training
 ======
-*	Lean Six Sigma Green Belt, Certification Pending, Mar 2022, Lean Competency System - Cardiff University, UK.
+*	**Lean Six Sigma Green Belt**, Mar-Sep 2022, Certified Green Belt, Lean Competency System - Cardiff University, UK.
 
-*	Lean Six Sigma Yellow Belt, Certified LCS:1a, Dec 2021, Lean Competency System - Cardiff University, UK.
+*	**Lean Six Sigma Yellow Belt**, Certified LCS:1a, Dec 2021, Lean Competency System - Cardiff University, UK.
 
-*	Management and Leadership training at Ashorne Hill Management College, Royal Leamington Spa, UK (2 one-week residential modules) covering the following units:
+*	**Management and Leadership** training at Ashorne Hill Management College, Royal Leamington Spa, UK (2 one-week residential modules) covering the following units:
     *	Residential Module One (15-19 July 2018): Working in teams, Project management, Conflict management, Influencing skills, Communication skills, Managing resources, Leadership and management, Motivating others, Health and safety, and Time management.
     * Residential Module Two (7-11 October 2018): The business environment, Business strategy, Marketing, Financial concepts, Capital and budgeting, Analysis of accounts, and Business simulation
 
-*	A four-months Deep Learning Nanodegree Program by Udacity [certified deep learning engineer].
+*	A four-months **Deep Learning Nanodegree Program** by Udacity [certified deep learning engineer].
 *	Two online training courses at Udemy:
     *	Natural Language Processing with Python.
     *	Natural Language Processing with Deep Learning in Python
@@ -72,7 +72,7 @@ International Research Activities
 *	(Apr. 2013): Attended the Second NWRA Flare-Forecasting Comparison Workshop: Preliminary Results (Funded by NASA, USA), Apr. 2013, Boulder, CO, USA.
 *	(Feb. 2013): Honorary Visiting Research Assistant, Space Weather Research, Centre for Visual Computing (CVC), University of Bradford, Bradford, United Kingdom. 
 *	(Sep. 2009 - Now): Team Associate, Space Weather Research, Centre for Visual Computing (CVC), University of Bradford, Bradford, United Kingdom.
-[More info...](http://spaceweather.inf.brad.ac.uk)
+[More info...](https://spaceweather.bradford.ac.uk/)
 *	(Sep. 2011): Honorary Visiting Research Assistant, University of Bradford, Bradford, United Kingdom.
 *	(Jul-Aug 2009): Short course at the CISM summer school in Space Weather by the Center for Integrated Space Weather Modeling, Boston MA, USA.
 
