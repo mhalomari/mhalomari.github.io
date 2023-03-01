@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Senior AI Consultant and Strategist for the UK leading conveyancing giant and legal tech leader Simplify Ltd and as a research fellow at the University of Liverpool. As a professional with a background in academia and expertise in machine learning, data science, and AI consulting, I am passionate about developing real-world AI and automation solutions. I stay current with research advancements and possess the ability to apply deep thinking to solve complex issues across various industries. Driven to deliver value through Artificial Intelligence, I possess emotional intelligence to understand and address the concerns of colleagues and support the adoption of disruptive technologies. My approach to problem-solving incorporates the use of lean six sigma thinking and methodologies, thorough capability analysis, and an understanding of different processes and their value. I excel in scoping and identifying opportunities for AI implementation across the value chain and developing solutions that seamlessly integrate with a client's systems, processes, and people.
+Accomplished Senior Research Fellow and AI Consultant with a Ph.D. in Computing, experienced in machine learning, data science, and AI consulting. Expertise in Python, deep learning, and NLP, with a strong ability to solve complex problems, design and implement AI solutions across industries.
+
+As the former Dean of Engineering at Applied Science University (Jordan), I bring over 10 years of experience in academic leadership, research, and engineering education. During my tenure, I oversaw the development and implementation of a variety of innovative engineering programs and the establishment of several sustainable campus centres. In addition, I led a team of over 250 faculty and staff members to secure international accreditation for all engineering programs.
+
+Proficient in lean six sigma methodologies, project management, and leadership. Strong analytical and problem-solving skills, with an ability to think critically and creatively. Excellent communication and interpersonal skills, with an ability to work effectively in a team and build strong relationships with stakeholders. Proven track record in scoping and identifying opportunities for AI implementation, and developing solutions that seamlessly integrate with client's systems, processes, and people.
+
+In addition, I have extensive experience in providing training for professionals on the implementation and integration of AI solutions. I have successfully trained individuals and teams on building AI strategies, digital transformation, and applying lean six sigma methodologies, enabling them to improve business performance and drive better outcomes. With a passion for innovation and an eye for detail, I am committed to delivering transformative AI solutions that empower businesses to realize their full potential.
+
 
 Current Positions:
 ======
