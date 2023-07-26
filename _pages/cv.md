@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+
+Key Achievements
+======
+*	Successfully delivered several AI projects across different industries, including property market, legal practice, space weather, healthcare, and energy management.
+*	Authored several publications in top-tier journals and conferences.
+*	Helped securing several grants and funding for research projects.
+*	As the former Dean of Engineering, I led the faculty to achieve international accreditations for our engineering programs, demonstrating our commitment to providing high-quality education and preparing our students for successful careers in the field.
+
+
 Education
 ======
 * **Executive Course**, <a href="https://www.imperial.ac.uk/business-school/"><img src="/images/logo/Imperial.png" width="25%" align="right"></a> Digital Transformation Strategy, **[Imperial College Business School](https://www.imperial.ac.uk/business-school/)**, the executive education programme at the Imperial College Business School, Imperial College London, UK, 2021.”
@@ -37,6 +46,17 @@ Significant Training
     *	Natural Language Processing with Deep Learning in Python
 
 *	A "Science Entrepreneur Experience" training at the University of Liverpool, UK.
+
+Technical Skills
+======
+*	Implementing a Large Language Model based Chatbot using Azure OpenAI and Cognitive Search.
+*	Building and running applications for offline LLMS (or in Azure) using open-sourced LLMs or OpenAI’s GPT models.
+*	Building and running an Artificial Intelligence infrastructure on premise (or the cloud): AI Asynchronous Task Execution: Python WSGI application server, Flask API apps, RabbitMQ message broker, Celery asynchronous workers, Celery flower, and DB integration.
+*	Docker containers: Dockerised Flask Celery RabbitMQ applications.
+*	Programming in multiple languages and platforms (Windows and Mac) including Java, MATLAB, C++, .NET, XML, Python (Data Analysis, NLP, Computer Vision, Machine and Deep Learning) and C#.
+*	MATLAB Simulation & Toolboxes.
+*	Web Design (HTML, Java, Front Page, PHP, Macromedia Flash, Adobe Photoshop) and Web Administration (Joomla, phpMyAdmin, SharePoint, and MySQL).
+*	Handling several hardware and software projects including documentation using TeX/LaTeX.
 
 
 Industry, Academic and Research Experience
@@ -125,13 +145,6 @@ International Technical Activities
 *	TPC Member for the 3rd International Conference on Computing and Artificial Intelligence MIC-CAI2013, 5-7 April 2013, Belgrade, Serbia.
 *	TPC Member for the 6th International Conference on Communications, Networking and Information Technology MIC-CNIT2012, 21-23 Dec. 2012, Nicosia, Cyprus.
 *	TPC Member for the 5th International Conference on Communications, Networking and Information Technology MIC-CNIT2011, 16-18 December 2011, Dubai, UAE.
-
-Technical Skills
-======
-*	Programming in multiple languages and platforms (Windows and Mac) including Java, MATLAB, C++, .NET, XML, Python (Machine and Deep Learning) and C#.
-*	MATLAB Simulation & Toolboxes; Two years of expertise in teaching MATLAB Course in the IEEE Student Branch at JUST University, Jordan.
-*	Web Design (HTML, Java, Front Page, PHP, Macromedia Flash, Adobe Photoshop) and Web Administration (Joomla, phpMyAdmin, SharePoint, and MySQL).
-*	Handling several hardware and software projects including a documentation using TeX/LaTeX.
 
   
 Scholarships, Honors and Awards
