@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+Professional Summary:
+======
+Accomplished Senior Research Fellow, AI Consultant, and Solutions Architect with a Ph.D. in applied machine learning. Proven expertise in delivering innovative AI solutions across diverse sectors, including property market, legal practice, space weather, healthcare, and energy management. Skilled in Python, deep learning, computer vision, and NLP, with a focus on Microsoft Azure services. Known for crafting tailored AI strategies that drive transformative outcomes. Experienced in solving complex problems and deploying solutions on both Azure and on-premises platforms. Strong track record in building advanced AI strategies to meet industry-specific needs, leveraging cutting-edge technologies and analytical insights.
+
+
+Technical Expertise:
+======
+*	**Machine Learning:** deep learning, computer vision, NLP, and data analysis.
+*	**Microsoft Azure:** ML, AutoML, Cognitive Services, OpenAI, storage, App service and DevOps.
+*	**Generative AI Solutions Architect (Large Language Models):** Building chatbots trained on enterprise data using open-sourced LLMs (Hugging Face) or OpenAI’s GPT models (Azure OpenAI).
+*	**On-premises Deployment:** IIS hosted AI apps with asynchronous task execution, Python WSGI application server, Flask API apps, RabbitMQ message broker, Celery asynchronous workers, Celery flower, database integration, and SQL consumers pushing JSON/XML responses.
+*	**Programming/scripting:** Python, Java, MATLAB, C#, and SQL.
+*	**Extra:** Streamlit app framework, Docker containers, Git, integration, and web development.
+
 
 Key Achievements
 ======
