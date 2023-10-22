@@ -23,13 +23,12 @@ Technical Expertise:
 *	**Programming/scripting:** Python, Java, MATLAB, C#, and SQL.
 *	**Extra:** Streamlit app framework, Docker containers, Git, integration, and web development.
 
-
-Key Achievements
-======
-*	Successfully delivered several AI projects across different industries, including property market, legal practice, space weather, healthcare, and energy management.
-*	Authored several publications in top-tier journals and conferences.
-*	Helped securing several grants and funding for research projects.
-*	As the former Dean of Engineering, I led the faculty to achieve international accreditations for our engineering programs, demonstrating our commitment to providing high-quality education and preparing our students for successful careers in the field.
+Soft Skills:
+*	Proficient in **Lean Six Sigma** methodologies, project management, AI strategies, operational ecosystem analysis and leadership.
+* **Engagement and Education Sessions:** Conducted targeted sessions with colleagues and clients, delving into their operational challenges and areas of expertise. Guided interactive discussions to comprehend unique needs and potential applications of AI technologies. Led educational workshops, providing in-depth insights into AI capabilities, and identifying strategic opportunities for integration. Collaborated closely with diverse teams, translating insights from these sessions into tailored AI solutions, effectively bridging the gap between technical expertise and operational demands.
+* **Proven Leadership:** Successfully served as the Dean of Engineering, managing a diverse team of 270 staff members. Demonstrated exceptional leadership skills in overseeing academic and administrative functions, fostering a collaborative environment, and driving continuous improvement initiatives. Led strategic planning efforts, ensuring alignment with the university's mission and vision.
+* Strong analytical and problem-solving skills with a critical and creative mindset.
+* Excellent communication and interpersonal skills for effective teamwork and stakeholder relationships.
 
 
 Education
@@ -44,33 +43,15 @@ Education
 * **High School**: [AlManara Secondary School for Boys](https://goo.gl/maps/RFZsrkHDpuHCBYWWA), Irbid, Jordan, July 2000, the high school academic final national examination (Tawjihi) with the grade of 91.4%.
 
 
-Significant Training
+Certifications and Significant Training
 ======
-*	**Lean Six Sigma Green Belt**, Mar-Sep 2022, Certified Green Belt, Lean Competency System - Cardiff University, UK.
-
-*	**Lean Six Sigma Yellow Belt**, Certified LCS:1a, Dec 2021, Lean Competency System - Cardiff University, UK.
-
-*	**Management and Leadership** training at Ashorne Hill Management College, Royal Leamington Spa, UK (2 one-week residential modules) covering the following units:
-    *	Residential Module One (15-19 July 2018): Working in teams, Project management, Conflict management, Influencing skills, Communication skills, Managing resources, Leadership and management, Motivating others, Health and safety, and Time management.
-    * Residential Module Two (7-11 October 2018): The business environment, Business strategy, Marketing, Financial concepts, Capital and budgeting, Analysis of accounts, and Business simulation
-
-*	A four-months **Deep Learning Nanodegree Program** by Udacity [certified deep learning engineer].
-*	Two online training courses at Udemy:
-    *	Natural Language Processing with Python.
-    *	Natural Language Processing with Deep Learning in Python
-
-*	A "Science Entrepreneur Experience" training at the University of Liverpool, UK.
-
-Technical Skills
-======
-*	Implementing a Large Language Model based Chatbot using Azure OpenAI and Cognitive Search.
-*	Building and running applications for offline LLMS (or in Azure) using open-sourced LLMs or OpenAI’s GPT models.
-*	Building and running an Artificial Intelligence infrastructure on premise (or the cloud): AI Asynchronous Task Execution: Python WSGI application server, Flask API apps, RabbitMQ message broker, Celery asynchronous workers, Celery flower, and DB integration.
-*	Docker containers: Dockerised Flask Celery RabbitMQ applications.
-*	Programming in multiple languages and platforms (Windows and Mac) including Java, MATLAB, C++, .NET, XML, Python (Data Analysis, NLP, Computer Vision, Machine and Deep Learning) and C#.
-*	MATLAB Simulation & Toolboxes.
-*	Web Design (HTML, Java, Front Page, PHP, Macromedia Flash, Adobe Photoshop) and Web Administration (Joomla, phpMyAdmin, SharePoint, and MySQL).
-*	Handling several hardware and software projects including documentation using TeX/LaTeX.
+* **Microsoft Azure AI Engineer Associate** (Ongoing Training).
+* **Certified Deep Learning Engineer (AWS)**: Completed a deep learning Nanodegree program by Udacity.
+* **Lean Six Sigma Green Belt**: Certified Green Belt from Cardiff University, UK (Mar-Sep 2022).
+* **Lean Six Sigma Yellow Belt:** Certified LCS:1a from Lean Competency System, Cardiff University, UK (Dec 2021).
+* **Management and Leadership Training:** Completed comprehensive training at **Jaguar Land Rover's Ashorne Hill Management College,** Royal Leamington Spa, UK. Covered topics including Working in Teams, Project Management, Conflict Management, Influencing Skills, Communication Skills, Managing Resources, Leadership, Motivating Others, Health and Safety, Time Management, Business Environment, Business Strategy, Marketing, Financial Concepts, Capital & Budgeting, Analysis of Accounts, and Business Simulation.
+* **Online Training Courses:** Completed courses in Natural Language Processing with Python and NLP with Deep Learning in Python.
+*	A **Science Entrepreneur Experience** training at the University of Liverpool, UK.
 
 
 Industry, Academic and Research Experience
