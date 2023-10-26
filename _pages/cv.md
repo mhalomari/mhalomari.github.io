@@ -24,6 +24,7 @@ Technical Expertise:
 *	**Extra:** Streamlit app framework, Docker containers, Git, integration, and web development.
 
 Soft Skills:
+======
 *	Proficient in **Lean Six Sigma** methodologies, project management, AI strategies, operational ecosystem analysis and leadership.
 * **Engagement and Education Sessions:** Conducted targeted sessions with colleagues and clients, delving into their operational challenges and areas of expertise. Guided interactive discussions to comprehend unique needs and potential applications of AI technologies. Led educational workshops, providing in-depth insights into AI capabilities, and identifying strategic opportunities for integration. Collaborated closely with diverse teams, translating insights from these sessions into tailored AI solutions, effectively bridging the gap between technical expertise and operational demands.
 * **Proven Leadership:** Successfully served as the Dean of Engineering, managing a diverse team of 270 staff members. Demonstrated exceptional leadership skills in overseeing academic and administrative functions, fostering a collaborative environment, and driving continuous improvement initiatives. Led strategic planning efforts, ensuring alignment with the university's mission and vision.
