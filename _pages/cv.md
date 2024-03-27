@@ -11,7 +11,7 @@ redirect_from:
 
 Professional Summary:
 ======
-Accomplished Senior Research Fellow, AI Consultant, and Solutions Architect with a Ph.D. in applied machine learning. Proven expertise in delivering innovative AI solutions across diverse sectors, including property market, legal practice, space weather, healthcare, and energy management. Skilled in Python, deep learning, computer vision, and NLP, with a focus on Microsoft Azure services. Known for crafting tailored AI strategies that drive transformative outcomes. Experienced in solving complex problems and deploying solutions on both Azure and on-premises platforms. Strong track record in building advanced AI strategies to meet industry-specific needs, leveraging cutting-edge technologies and analytical insights.
+Accomplished Innovation Director, Senior Research Fellow, AI Consultant, and Solutions Architect with a Ph.D. in applied machine learning. Proven expertise in delivering innovative AI solutions across diverse sectors, including property market, legal practice, space weather, healthcare, and energy management. Skilled in Python, deep learning, computer vision, and NLP, with a focus on Microsoft Azure services. Known for crafting tailored AI strategies that drive transformative outcomes. Experienced in solving complex problems and deploying solutions on both Azure and on-premises platforms. Strong track record in building advanced AI strategies to meet industry-specific needs, leveraging cutting-edge technologies and analytical insights.
 
 
 Technical Expertise:
@@ -57,7 +57,8 @@ Certifications and Significant Training
 
 Industry, Academic and Research Experience
 ======
-*	(Jun 2021 – Now): <a href="https://www.simplify.co.uk/"><img src="/images/logo/simplify.png" width="30%" align="right"></a> Senior Artificial Intelligence Consultant, [Simplify Ltd](https://www.simplify.co.uk), Leicester, United Kingdom.<br><br>
+*	(Mar 2024 – Now): <a href="https://www.landmark.co.uk/"><img src="/images/logo/landmark-logo.png" width="30%" align="right"></a> Pre-Sales Innovation Director, [Landmark Information Group](https://www.landmark.co.uk), United Kingdom.<br><br>
+*	(Jun 2021 – Mar 2024): <a href="https://www.simplify.co.uk/"><img src="/images/logo/simplify.png" width="30%" align="right"></a> Senior Artificial Intelligence Consultant, [Simplify Ltd](https://www.simplify.co.uk), Leicester, United Kingdom.<br><br>
 *	(Jun 2021 – Now): <a href="https://www.liverpool.ac.uk/"><img src="/images/logo/liv.png" width="30%" align="left"></a> Senior Research Fellow, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, [University of Liverpool](https://www.liverpool.ac.uk/), Liverpool, United Kingdom.<br><br>
 *	(Jun 2018 – Jun 2021): Senior KTP Associate, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, [University of Liverpool](https://www.liverpool.ac.uk/), Liverpool, United Kingdom.<br><br>
 *	(Jun 2018 – Jun 2021): <a href="https://www.myhomemove.com/"><img src="/images/logo/mhm.png" width="20%" align="right"></a> AI & ML Specialist, [My Home Move Ltd](https://www.myhomemove.com/) (Now [Simplify Ltd](https://www.simplify.co.uk/)), Leicester, UK.<br><br>
