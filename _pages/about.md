@@ -17,17 +17,15 @@ Proficient in lean six sigma methodologies, project management, and leadership. 
 In addition, I have extensive experience in providing training for professionals on the implementation and integration of AI solutions. I have successfully trained individuals and teams on building AI strategies, digital transformation, and applying lean six sigma methodologies, enabling them to improve business performance and drive better outcomes. With a passion for innovation and an eye for detail, I am committed to delivering transformative AI solutions that empower businesses to realize their full potential.
 
 
-Current Positions:
+Current Position:
 ======
 * Pre-Sales Innovation Director, Landmark Information Group, Reading, UK
-* Senior Research Fellow, University of Liverpool, UK
 
 Web:
 ======
 
 | Desc. | Link |
 |:-------|:-------|
-| My University of Liverpool page   | [https://www.liverpool.ac.uk/computer-science/staff/mohammad-alomari/](https://www.liverpool.ac.uk/computer-science/staff/mohammad-alomari/)   |
 | My research group at the University of Bradford | [https://spaceweather.bradford.ac.uk/](https://spaceweather.bradford.ac.uk/) |
 |===================|
 
