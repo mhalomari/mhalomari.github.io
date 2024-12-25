@@ -11,7 +11,7 @@ redirect_from:
 
 Professional Summary:
 ======
-Accomplished Innovation Director, Senior Research Fellow, AI Consultant, and Solutions Architect with a Ph.D. in applied machine learning. Proven expertise in delivering innovative AI solutions across diverse sectors, including property market, legal practice, space weather, healthcare, and energy management. Skilled in Python, deep learning, computer vision, and NLP, with a focus on Microsoft Azure services. Known for crafting tailored AI strategies that drive transformative outcomes. Experienced in solving complex problems and deploying solutions on both Azure and on-premises platforms. Strong track record in building advanced AI strategies to meet industry-specific needs, leveraging cutting-edge technologies and analytical insights.
+Accomplished AI Innovation Director, Senior Research Fellow, AI Consultant, and AI Solutions Architect with a Ph.D. in applied machine learning. Proven expertise in delivering innovative AI solutions across diverse sectors, including property market, legal practice, space weather, healthcare, and energy management. Skilled in Python, deep learning, computer vision, and NLP, with a focus on Microsoft Azure services. Known for crafting tailored AI strategies that drive transformative outcomes. Experienced in solving complex problems and deploying solutions on both Azure and on-premises platforms. Strong track record in building advanced AI strategies to meet industry-specific needs, leveraging cutting-edge technologies and analytical insights.
 
 
 Technical Expertise:

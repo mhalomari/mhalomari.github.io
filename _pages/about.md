@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Accomplished Innovation Director, Senior Research Fellow and AI Consultant with a Ph.D. in Computing, experienced in machine learning, data science, and AI consulting. Expertise in Python, deep learning, and NLP, with a strong ability to solve complex problems, and design and implement AI solutions across industries deployed on both Azure and on-premises.
+Accomplished AI Innovation Director, Senior Research Fellow and AI Consultant with a Ph.D. in Computing, experienced in machine learning, data science, and AI consulting. Expertise in Python, deep learning, and NLP, with a strong ability to solve complex problems, and design and implement AI solutions across industries deployed on both Azure and on-premises.
 
 As the former Dean of Engineering at Applied Science University (Jordan), I bring over 10 years of experience in academic leadership, research, and engineering education. During my tenure, I oversaw the development and implementation of a variety of innovative engineering programs and the establishment of several sustainable campus centres. In addition, I led a team of over 250 faculty and staff members to secure international accreditation for all engineering programs.
 
