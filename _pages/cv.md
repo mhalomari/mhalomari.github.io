@@ -57,9 +57,9 @@ Certifications and Significant Training
 
 Industry, Academic and Research Experience
 ======
-*	(Mar 2024 – Now): <a href="https://www.landmark.co.uk/"><img src="/images/logo/landmark-logo.png" width="40%" align="left"></a> Pre-Sales Innovation Director, [Landmark Information Group](https://www.landmark.co.uk), United Kingdom.<br><br>
+*	(Mar 2024 – Now): <a href="https://www.landmark.co.uk/"><img src="/images/logo/Landmark.jpeg" width="50%" align="left"></a> Pre-Sales Innovation Director, [Landmark Information Group](https://www.landmark.co.uk), United Kingdom.<br><br>
 *	(Jun 2021 – Mar 2024): <a href="https://www.simplify.co.uk/"><img src="/images/logo/simplify.png" width="25%" align="right"></a> Senior Artificial Intelligence Consultant, [Simplify Ltd](https://www.simplify.co.uk), Leicester, United Kingdom.<br><br>
-*	(Jun 2021 – Now): <a href="https://www.liverpool.ac.uk/"><img src="/images/logo/liv.png" width="30%" align="left"></a> Senior Research Fellow, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, [University of Liverpool](https://www.liverpool.ac.uk/), Liverpool, United Kingdom.<br><br>
+*	(Jun 2021 – June 2024): <a href="https://www.liverpool.ac.uk/"><img src="/images/logo/liv.png" width="30%" align="left"></a> Senior Research Fellow, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, [University of Liverpool](https://www.liverpool.ac.uk/), Liverpool, United Kingdom.<br><br>
 *	(Jun 2018 – Jun 2021): Senior KTP Associate, Computer Science Department, School of Electrical Engineering, Electronics and Computer Science, [University of Liverpool](https://www.liverpool.ac.uk/), Liverpool, United Kingdom.<br><br>
 *	(Jun 2018 – Jun 2021): <a href="https://www.myhomemove.com/"><img src="/images/logo/mhm.png" width="20%" align="right"></a> AI & ML Specialist, [My Home Move Ltd](https://www.myhomemove.com/) (Now [Simplify Ltd](https://www.simplify.co.uk/)), Leicester, UK.<br><br>
 *	(Dec 2017 – Jun 2018): Visiting Research Fellow, School of Electrical Engineering, Electronics and Computer Science, University of Liverpool, Liverpool, United Kingdom.<br><br>
